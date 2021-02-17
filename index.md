@@ -22,7 +22,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-You can browse helloworld test here <a href="./doc/HelloWorld.html">Hello World</a>
+You can browse helloworld test here [javadoc][https://github.com/jbCodeHub/Continuous-Integration/blob/gh-pages/doc/HelloWorld.html]
 [Link](url) and ![Image](src)
 ```
 
